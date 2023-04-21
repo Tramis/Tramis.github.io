@@ -12,7 +12,7 @@ permalink: /new-page
 
 ## H2 titiles
 
-some content
+some *italic* **content**
 
 $$
 katex test
