@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Tramis's pages
 description: learning blogs
+
+permalink: /:categories/:year/:month/:title
